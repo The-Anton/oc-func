@@ -12,7 +12,7 @@ build:
   builder: s2i
   buildEnvs: 
   - name: MY_BUILD_KEY
-    value: '{{ env:MY_BUILD_KEY }}'
+    value: tests
 run:
   volumes: []
   envs:
