@@ -1,6 +1,6 @@
 specVersion: 0.34.0
 name: hello-func-node
-runtime: node
+runtime: python
 registry: quay.io/viraj_1
 image: quay.io/viraj_1/hello-func-node:latest
 imageDigest: sha256:cb91c6f8a8a897a14231288b90af35efa00fda24c399ed93afdde58bbcd9b4ca
