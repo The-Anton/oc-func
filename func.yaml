@@ -9,7 +9,6 @@ invocation:
   format: http
 build:
   buildpacks: []
-  builder: pack
   buildEnvs: 
   - name: MY_BUILD_KEY
     value: tests
